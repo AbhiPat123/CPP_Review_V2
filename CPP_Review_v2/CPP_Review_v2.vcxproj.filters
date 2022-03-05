@@ -18,5 +18,11 @@
     <ClCompile Include="CPP_Review_v2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="array_functions.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="array_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
